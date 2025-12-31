@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Pradip </h1>
 <!-- <img src="https://github.com/twolob/twolob/blob/master/Profile-Banner.png" style="max-width: 100%;"> -->
-<h3 align="center">A passionate Computer Science student from Nepal ,  I am currently studying in India.</h3>
+<h3 align="center">A passionate Computer Science student.,  I am currently studying in Amrita Vishwa Vidyapeetham .</h3>
 <img align="right" alt="Coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47blqt1vi9bvtnx9m9w2hiiukq9lc4gxfk2ejrhtew&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twolob&label=Profile%20views&color=0e75b6&style=flat" alt="twolob" /> </p>
